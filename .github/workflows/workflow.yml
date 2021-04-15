@@ -1,3 +1,6 @@
 uses: actions/hello-world-javascript-action@main
+
+on: [workflow_dispatch]
+
 with:
   who-to-greet: 'Mona the Octocat'
