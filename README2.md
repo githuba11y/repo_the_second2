@@ -4,5 +4,5 @@ This repo is purely for accessibility testing.
 
 It contains no real content. 
 
-Everything (discussions, issues, PRs, projects, comments, etc) is dummy content for testing.
+All content (discussions, issues, PRs, projects, comments, etc) is dummy content for testing.
 
