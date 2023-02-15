@@ -9,3 +9,5 @@ Editing this file to create a push.
 Second commit so push contains two commits
 
 Commiting to a third branch to delete
+
+Normal push
