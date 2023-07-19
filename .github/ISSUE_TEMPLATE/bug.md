@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Bug report"
-about: Sample template for accessibility auditing
+about: Template for auditing accessibility
 title: Insert bug title here
 labels: 'bug'
 assignees: ''
