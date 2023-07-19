@@ -1,11 +1,8 @@
 ---
 name: All required (form)
-description: File a bug report github/DIY-3
+description: Form for auditing accessibility of issues_experience
 title: "[Bug]: "
 labels: ["bug", "DEFINITELY-INVALID"]
-assignees:
-  - monalisa
-  - torvalds
 body:
   - type: markdown
     attributes:
