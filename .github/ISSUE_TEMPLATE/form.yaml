@@ -1,5 +1,5 @@
 ---
-name: All required (form)
+name: Issue Form (for auditing)
 description: Form for auditing accessibility of issues_experience
 title: "[Bug]: "
 labels: ["bug", "DEFINITELY-INVALID"]
