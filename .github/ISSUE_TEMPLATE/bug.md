@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41B Bug report"
+name: "Issue Template (for auditing)"
 about: Template for auditing accessibility
 title: Insert bug title here
 labels: 'bug'
