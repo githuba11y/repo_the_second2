@@ -1,8 +1,7 @@
 # [GitHub Desktop](https://desktop.github.com)
 
 [GitHub Desktop](https://desktop.github.com/) is an open source [Electron](https://www.electronjs.org/)-based
-GitHub app. It is written in [TypeScript](https://www.typescriptlang.org) and
-uses [React](https://reactjs.org/).
+GitHub app. It is written in [TypeScript](https://www.typescriptlang.org) and uses [React](https://reactjs.org/). yep
 
 <picture>
   <source
@@ -27,6 +26,17 @@ Download the official installer for your operating system:
 
 Linux is not officially supported; however, you can find installers created for Linux from a fork of GitHub Desktop in the [Community Releases](https://github.com/desktop/desktop#community-releases) section.
 
+## Where can I get it?
+
+Download the official installer for your operating system:
+
+ - [macOS](https://central.github.com/deployments/desktop/desktop/latest/darwin)
+ - [macOS (Apple silicon)](https://central.github.com/deployments/desktop/desktop/latest/darwin-arm64)
+ - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
+ - [Windows machine-wide install](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
+
+Linux is not officially supported; however, you can find installers created for Linux from a fork of GitHub Desktop in the [Community Releases](https://github.com/desktop/desktop#community-releases) section.
+
 ### Beta Channel
 
 Want to test out new features and get fixes before everyone else? Install the
@@ -37,7 +47,7 @@ beta channel to get access to early builds of Desktop:
  - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32?env=beta)
  - [Windows (ARM64)](https://central.github.com/deployments/desktop/desktop/latest/win32-arm64?env=beta)
 
-The release notes for the latest beta versions are available [here](https://desktop.github.com/release-notes/?env=beta).
+The release notest beta versions are available [here](https://desktop.github.com/release-notes/?env=beta).
 
 ### Community Releases
 
@@ -71,7 +81,7 @@ further.
 
 ## The issue I reported isn't fixed yet. What can I do?
 
-If nobody has responded to your issue in a few days, you're welcome to respond to it with a friendly ponded. The GitHub Desktop maintainers are constrained in time and resources, and diagnosing individual configurations can be difficult and time consuming. While we'll try to at least get you pointed in the right direction, we can't guarantee we'll be able to dig too deeply into any one person's issue.
+If nobody has responded to your issue in a few days, you're welcome to respond to it with a friendly ponded. The GitHub Desktop maintainers are constrained in time and resources, and diagnosing individual configurations can be difficult and time consuming. While we'll try to at least get you pointed in the right direction, we can't guarantee we'll be able to dig too deeply into any one person's issue. a change
 
 ## How can I contribute to GitHub Desktop?
 

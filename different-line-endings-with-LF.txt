@@ -1,0 +1,3 @@
+Here is line endings with LF
+hey 
+an added line
