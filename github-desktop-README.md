@@ -42,7 +42,7 @@ The release notes for the latest beta versions are available [here](https://desk
 ### Community Releases
 
 There are several community-supported package managers that can be used to
-install GitHub Desktop:
+install GitHub Desktop: Here a change
  - Windows users can install using [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/) `c:\> winget install github-desktop` or [Chocolatey](https://chocolatey.org/) `c:\> choco install github-desktop`
  - macOS users can install using [Homebrew](https://brew.sh/) package manager:
       `$ brew install --cask github`
@@ -71,7 +71,7 @@ further.
 
 ## The issue I reported isn't fixed yet. What can I do?
 
-If nobody has responded to your issue in a few days, you're welcome to respond to it with a friendly ping in the issue. Please do not respond more than a second time if nobody has responded. The GitHub Desktop maintainers are constrained in time and resources, and diagnosing individual configurations can be difficult and time consuming. While we'll try to at least get you pointed in the right direction, we can't guarantee we'll be able to dig too deeply into any one person's issue.
+If nobody has responded to your issue in a few days, you're welcome to respond to it with a friendly ponded. The GitHub Desktop maintainers are constrained in time and resources, and diagnosing individual configurations can be difficult and time consuming. While we'll try to at least get you pointed in the right direction, we can't guarantee we'll be able to dig too deeply into any one person's issue.
 
 ## How can I contribute to GitHub Desktop?
 
@@ -90,7 +90,7 @@ To setup your development environment for building Desktop, check out: [`setup.m
 See [desktop.github.com](https://desktop.github.com) for more product-oriented
 information about GitHub Desktop.
 
-See our [getting started documentation](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) for more information on how to set up, authenticate, and configure GitHub Desktop.
+See our [getting started documentation](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop) for more information on how to set up, authenticate, and configure GitHub Desktop. yep
 
 ## License
 
