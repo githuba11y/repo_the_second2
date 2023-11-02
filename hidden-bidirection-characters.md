@@ -1,0 +1,1 @@
+Here are some hidden ⁧ bidirection (bidi) characters.
