@@ -1,4 +1,3 @@
 
 add.md
-*.md
-*.md
+node_modules/*
