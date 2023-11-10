@@ -1,0 +1,3 @@
+[submodule "github-desktop"]
+	path = github-desktop
+	url = https://github.com/githuba11y/github-desktop.git
