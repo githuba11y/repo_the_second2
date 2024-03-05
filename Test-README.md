@@ -3,3 +3,7 @@
 Hi
 
 This is a new readme file.
+
+A change on the remote
+
+A local change
