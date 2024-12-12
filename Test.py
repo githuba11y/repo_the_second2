@@ -1,7 +1,9 @@
 this purpose only
 name: Checks Testing
+
 on: 
-    pull_request:
+  pull_request:
+
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
@@ -17,3 +19,15 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - name: Run Python Lint
+        run: |
+          pip install flake8
+          flake8 .
+      - name: Run Unit Tests
+        run: |
+          pip install pytest
+          pytest
+      - name: Check Code Formatting
+        run: |
+          pip install black
+          black --check .
