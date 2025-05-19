@@ -1,6 +1,6 @@
 # repo_the_second1
 
-something. something.
+This repo is purely for accessibility testing. Yes.
 
 It contains no real content. 
 
