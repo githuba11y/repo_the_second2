@@ -1,6 +1,6 @@
 # repo_the_second2
 
-This repo is purely for accessibility testing.
+something
 
 It contains no real content. 
 
