@@ -1,33 +1,67 @@
 ---
-name: "Issue Template (for auditing)"
-about: Template for auditing accessibility
-title: Insert bug title here
-labels: 'bug'
+name: "Accessibility Issue Report"
+about: Report accessibility barriers found during auditing
+title: "[A11Y] Accessibility issue description"
+labels: 'bug, accessibility'
 assignees: ''
 
 ---
 
-### Summary
-_brief summary of what doesn't work as expected_
+### Accessibility Issue Summary
+Brief description of the accessibility barrier discovered.
 
-### Steps to reproduce
+### WCAG Guideline Violated
+- [ ] Perceivable (Content must be presentable to users in ways they can perceive)
+- [ ] Operable (User interface components must be operable)
+- [ ] Understandable (Information and UI operation must be understandable)
+- [ ] Robust (Content must be robust enough for interpretation by assistive technologies)
 
-_help us reproduce the issue_
+**Specific WCAG Criterion:** (e.g., 1.1.1 Non-text Content, 2.1.1 Keyboard)
 
-1.
-2.
-3.
+### Severity Level
+- [ ] Critical (Prevents task completion)
+- [ ] High (Significantly impacts user experience)
+- [ ] Medium (Some impact on user experience)
+- [ ] Low (Minor accessibility enhancement)
 
-### Expected behaviour
+### User Impact
+Who is affected by this issue?
+- [ ] Screen reader users
+- [ ] Keyboard-only users
+- [ ] Users with cognitive disabilities
+- [ ] Users with low vision
+- [ ] Users with motor disabilities
+- [ ] Other: _______________
 
+### Steps to Reproduce
+1. Navigate to [specific page/component]
+2. Using [assistive technology/method]
+3. Attempt to [specific action]
+4. Observe the issue
 
-### Actual behaviour
+### Expected Accessible Behavior
+Describe what should happen for users with disabilities.
 
+### Actual Behavior
+Describe what currently happens that creates a barrier.
 
-### Workaround
+### Assistive Technology Used
+- [ ] Screen reader (specify: JAWS, NVDA, VoiceOver, etc.)
+- [ ] Keyboard navigation only
+- [ ] Voice control software
+- [ ] Magnification software
+- [ ] Other: _______________
 
-_Do you know a way to work around the bug?_
+### Browser/Platform
+- Browser: (e.g., Chrome 96, Firefox 94, Safari 15)
+- Operating System: (e.g., Windows 11, macOS 12, iOS 15)
+- Assistive Technology Version: (if applicable)
 
-### Link to Issue where bug occurs
+### Screenshots/Evidence
+Attach screenshots, recordings, or code snippets that demonstrate the issue.
 
-_Sometimes bugs are only reproducible with certain underlying data. If there's a specific record (Issue/PR/etc.), please add a link_
+### Suggested Fix
+If you have ideas for how to resolve this accessibility barrier, please describe them.
+
+### Related Issues
+Link to any related accessibility issues or documentation.

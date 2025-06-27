@@ -1,2 +1,38 @@
-Mobile Audit Feature
-This a feature
+# Mobile Accessibility Checklist
+
+## Mobile-Specific Accessibility Requirements
+
+### Touch Target Size
+- [ ] Minimum touch target size of 44x44 pixels (iOS) or 48x48dp (Android)
+- [ ] Adequate spacing between touch targets (minimum 8px)
+- [ ] Touch targets do not overlap
+
+### Mobile Screen Reader Testing
+- [ ] Test with VoiceOver (iOS) and TalkBack (Android)
+- [ ] Swipe navigation works correctly
+- [ ] Touch exploration provides meaningful feedback
+
+### Mobile Keyboard Support
+- [ ] External keyboard navigation works on tablets
+- [ ] On-screen keyboard doesn't obscure content
+- [ ] Focus moves logically with keyboard input
+
+### Orientation and Zoom
+- [ ] Content reflows properly in portrait and landscape
+- [ ] Zoom up to 200% works without horizontal scrolling
+- [ ] Content remains functional when zoomed
+
+### Mobile Form Accessibility
+- [ ] Input types are appropriate (email, tel, number, etc.)
+- [ ] Autocomplete attributes are used where applicable
+- [ ] Error messages are clearly associated with form fields
+
+### Gesture Accessibility
+- [ ] Complex gestures have simple alternatives
+- [ ] Drag and drop operations have keyboard alternatives
+- [ ] Swipe actions are announced to screen readers
+
+## Testing Tools for Mobile
+- **iOS**: VoiceOver, Accessibility Inspector
+- **Android**: TalkBack, Accessibility Scanner
+- **Cross-platform**: axe DevTools mobile testing
