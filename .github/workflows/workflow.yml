@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     name: howdy
     steps:
-    - uses: actions/hello-world-javascript-action@main
+    - uses: actions/hello-world-javascript-action@79ac0da13ee392da3fdd151813d5ce4658cb7e27 # main
       with:
         who-to-greet: 'Mona the Octocat'
