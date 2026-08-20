@@ -29,7 +29,12 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Install pytest
+        run: pip install pytest
+
       - name: Run tests
         run: |
           python -m pytest
-# Trigger new workflow run
+
+      - name: Trigger new workflow run
+        run: echo "Workflow triggered successfully!"
